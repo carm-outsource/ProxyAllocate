@@ -1,9 +1,7 @@
-# UltraMOTD 超级介绍展示
-
-[![CodeFactor](https://www.codefactor.io/repository/github/CarmJos/UltraMOTD/badge?s=b76fec1f64726b5f19989aace6adb5f85fdab840)](https://www.codefactor.io/repository/github/CarmJos/UltraMOTD)
-![CodeSize](https://img.shields.io/github/languages/code-size/CarmJos/UltraMOTD)
-[![Download](https://img.shields.io/github/downloads/CarmJos/UltraMOTD/total)](https://github.com/CarmJos/UltraMOTD/releases)
-[![Java CI with Maven](https://github.com/CarmJos/UltraMOTD/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/CarmJos/UltraMOTD/actions/workflows/maven.yml)
+# ProxyAllocate
+![CodeSize](https://img.shields.io/github/languages/code-size/CarmJos/ProxyAllocate)
+[![Download](https://img.shields.io/github/downloads/CarmJos/ProxyAllocate/total)](https://github.com/CarmJos/ProxyAllocate/releases)
+[![Java CI with Maven](https://github.com/CarmJos/ProxyAllocate/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/CarmJos/ProxyAllocate/actions/workflows/maven.yml)
 ![Support](https://img.shields.io/badge/Minecraft-Java%201.8--Latest-blue)
 
 A super lightweight [Velocity](https://papermc.io/software/velocity) plugin that
