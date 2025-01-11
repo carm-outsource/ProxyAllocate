@@ -1,7 +1,7 @@
 # ProxyAllocate
-![CodeSize](https://img.shields.io/github/languages/code-size/CarmJos/ProxyAllocate)
-[![Download](https://img.shields.io/github/downloads/CarmJos/ProxyAllocate/total)](https://github.com/CarmJos/ProxyAllocate/releases)
-[![Java CI with Maven](https://github.com/CarmJos/ProxyAllocate/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/CarmJos/ProxyAllocate/actions/workflows/maven.yml)
+![CodeSize](https://img.shields.io/github/languages/code-size/carm-outsource/ProxyAllocate)
+[![Download](https://img.shields.io/github/downloads/carm-outsource/ProxyAllocate/total)](https://github.com/carm-outsource/ProxyAllocate/releases)
+[![Java CI with Maven](https://github.com/carm-outsource/ProxyAllocate/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/carm-outsource/ProxyAllocate/actions/workflows/maven.yml)
 ![Support](https://img.shields.io/badge/Minecraft-Java%201.8--Latest-blue)
 
 A super lightweight [Velocity](https://papermc.io/software/velocity) plugin that
