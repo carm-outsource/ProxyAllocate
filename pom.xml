@@ -17,7 +17,9 @@
     <version>1.0.0</version>
 
     <name>ProxyAllocate</name>
-    <description>A simple plugin that supports evenly teleporting players to different default or forced-host servers when login.</description>
+    <description>A simple plugin that supports evenly teleporting players to different default or forced-host servers
+        when login.
+    </description>
     <url>https://github.com/carm-outsource/ProxyAllocate</url>
 
     <organization>
@@ -60,6 +62,11 @@
         </repository>
 
         <repository>
+            <id>papermc-repo</id>
+            <url>https://repo.papermc.io/repository/maven-public/</url>
+        </repository>
+
+        <repository>
             <id>rosewood-repo</id>
             <url>https://repo.rosewooddev.io/repository/public/</url>
         </repository>
@@ -67,12 +74,6 @@
         <repository>
             <id>nexus</id>
             <url>https://mvn.lumine.io/repository/maven-public/</url>
-        </repository>
-
-        <repository>
-            <id>carm-repo</id>
-            <name>Carm's Repo</name>
-            <url>https://repo.carm.cc/repository/maven-public/</url>
         </repository>
 
     </repositories>
