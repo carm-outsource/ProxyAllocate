@@ -43,11 +43,6 @@ public class ProxyAllocate {
         ProxyAllocate.instance = this;
     }
 
-    @Subscribe(order = PostOrder.FIRST)
-    public void onInitialize(ProxyInitializeEvent event) {
-        getServer().getEventManager().register(this, this);
-    }
-
     public static ProxyServer getServer() {
         return getInstance().server;
     }
