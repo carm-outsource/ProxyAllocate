@@ -2,5 +2,16 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:recommended"
+  ],
+  "ignoreDeps": [
+    "org.spigotmc:spigot-api",
+    "org.spigotmc:spigot",
+    "org.bukkit:bukkit",
+    "io.papermc.paper:paper-api",
+    "com.destroystokyo.paper:paper-api",
+    "org.purpurmc.purpur:purpur-api",
+    "dev.folia:folia-api",
+    "com.velocitypowered:velocity-api",
+    "net.md-5:bungeecord-api"
   ]
 }
